@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hojo4646
+- 👀 I’m a programmer interested in Python and Web Development
+- 📫 You can reach me via Linkedin https://www.linkedin.com/in/howard-johnson-1291b3241/
